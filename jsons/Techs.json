@@ -1,1 +1,144 @@
-
+[
+        {
+                "columnNumber": 0,
+                "era": "Beginning era",
+                "techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Taking Inventory",
+				"row": 6,
+				"uniques": ["Starting tech"],
+			}
+                ]
+        },
+        {
+                "columnNumber": 1,
+                "era": "Beginning era",
+                "techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 100,
+		"techs": [
+                        {
+                                "name": "Getting Wood",
+                                "row": 6,
+                                "prerequisites": ["Taking Inventry"],
+                        },
+                ]
+        },
+        {
+                "columnNumber": 2,
+                "era": "Beginning era",
+                "techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 100,
+		"techs": [
+                        {
+                                "name": "Benchmarking",
+                                "row": 6,
+                                "prerequisites": ["Getting Wood"],
+                        }
+                ]
+        },
+        {
+                "columnNumber": 3,
+                "era": "Beginning era",
+                "techCost": 100,
+		"buildingCost": 100,
+		"wonderCost": 100,
+		"techs": [
+                        {
+                                "name": "Time to Mine!",
+                                "row": 2,
+                                "prerequisites": ["Benchmarking"],
+                        },
+                        {
+                                "name": "Time to Farm!",
+                                "row": 9,
+                        },
+                        {
+                                "name": "Time to Strike!",
+                                "row": 7,
+                        },
+                ]
+        },
+        {
+                "columnNumber": 4,
+                "era": "Beginning era",
+                "techCost": 100,
+		"buildingCost": 100,
+		"wonderCost": 100,
+		"techs": [
+                        {
+                                "name": "Hot Topic",
+                                "row": 3,
+                                "prerequisites": ["Time to Mine!"],
+                        },
+                        {
+                                "name": "Bake Bread",
+                                "row": 8,
+                                "prerequisites": ["Time to Farm!"],
+                        },
+                        {
+                                "name": "The Lie",
+                                "row": 10,
+                                "prerequisites": ["Time to Farm!"],
+                        },
+                        {
+                                "name": "Getting an Upgrade",
+                                "row": 1,
+                                "prerequisites": ["Time to Mine!"],
+                        },
+                        {
+                                "name": "Monster Hunter",
+                                "row": 6,
+                                "prerequisites": ["Time to Strike!"],
+                        },
+                        {
+                                "name": "Cow Tipper",
+                                "row": 7,
+                                "prerequisites": ["Time to Strike!"],
+                        },
+                ]
+        },
+        {
+                "columnNumber": 5,
+                "era": "Beginning era",
+                "techCost": 100,
+		"buildingCost": 100,
+		"wonderCost": 100,
+		"techs": [
+                        {
+                                "name": "Acquire Hardware",
+                                "row": 5,
+                                "prerequisites": ["Hot Topic"],
+                        },
+                        {
+                                "name": "Delicious Fish",
+                                "row": 3,
+                                "prerequisites": ["Hot Topic"],
+                        },
+                        {
+                                "name": "When Pigs Fly",
+                                "row": 8,
+                                "prerequisites": ["Cow Tipper"],
+                        },
+                        {
+                                "name": "Sniper Duel",
+                                "row": 6,
+                                "prerequisites": ["Monster Hunter"],
+                        },
+                        {
+                                "name": "Repopulation",
+                                "row": 7,
+                                "prerequisites": ["Cow Tipper"],
+                        },
+                        {
+                                "name": "Overpowered",
+                                "row": 1,
+                                "prerequisites": ["Getting an Upgrade"],
+                        },
+                ]
+        },
+]
