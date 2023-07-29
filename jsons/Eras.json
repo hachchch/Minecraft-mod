@@ -1,1 +1,44 @@
-
+[
+        {
+                "name": "Beginning era",
+                "researchAgreementCost": 0,
+		"startingSettlerCount": 1,
+		"startingWorkerCount": 0,
+		"startingMilitaryUnitCount": 1,
+		"startingMilitaryUnit": "Particles",
+		"startingGold": 0,
+		"settlerPopulation": 1,
+		"startPercent": 1,
+		"citySound": "cityAncient",
+		"embarkDefense": 1,
+		"iconRGB": [100, 100, 200]
+	},
+        {
+                "name": "Foundation era",
+                "researchAgreementCost": 0,
+		"startingSettlerCount": 1,
+		"startingWorkerCount": 0,
+		"startingMilitaryUnitCount": 1,
+		"startingMilitaryUnit": "Particles",
+		"startingGold": 0,
+		"settlerPopulation": 1,
+		"startPercent": 1,
+		"citySound": "cityAncient",
+		"embarkDefense": 1,
+		"iconRGB": [100, 100, 200]
+	},
+        {
+                "name": "Accumulation era",
+                "researchAgreementCost": 0,
+		"startingSettlerCount": 1,
+		"startingWorkerCount": 0,
+		"startingMilitaryUnitCount": 1,
+		"startingMilitaryUnit": "Particles",
+		"startingGold": 0,
+		"settlerPopulation": 1,
+		"startPercent": 1,
+		"citySound": "cityAncient",
+		"embarkDefense": 1,
+		"iconRGB": [100, 100, 200]
+	},
+]
