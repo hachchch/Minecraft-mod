@@ -43,7 +43,7 @@
         },
         {
                 "columnNumber": 3,
-                "era": "Beginning era",
+                "era": "Foundation era",
                 "techCost": 100,
 		"buildingCost": 100,
 		"wonderCost": 100,
@@ -65,7 +65,7 @@
         },
         {
                 "columnNumber": 4,
-                "era": "Beginning era",
+                "era": "Foundation era",
                 "techCost": 100,
 		"buildingCost": 100,
 		"wonderCost": 100,
@@ -104,7 +104,7 @@
         },
         {
                 "columnNumber": 5,
-                "era": "Beginning era",
+                "era": "Accumulation era",
                 "techCost": 100,
 		"buildingCost": 100,
 		"wonderCost": 100,
