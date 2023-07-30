@@ -25,7 +25,7 @@
                 "production": 3,
                 "requiredTech": "Acquire Hardware",
                 "cost": 120,
-                "specialistSlots": {"Engineer": 1},
+                "specialistSlots": {"Armorer": 3},
                 "percentStatBonus": {"production": 10},
                 "requiredBuilding": "Furnace House",
                 "maintenance": 3,
