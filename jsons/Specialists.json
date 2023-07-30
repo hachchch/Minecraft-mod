@@ -1,85 +1,85 @@
 [
 	{
-		"name":"Librarian",
-		"science":3,
-		"greatPersonPoints": {"Great Scientist":3},
+		"name": "Librarian",
+		"science": 3,
+		"greatPersonPoints": {"Great Scientist": 3},
 		"color": [0,0,255]
 	},
 	{
-		"name":"Shepherd",
-		"gold":3,
-		"greatPersonPoints": {"Great Merchant":3},
+		"name": "Shepherd",
+		"gold": 3,
+		"greatPersonPoints": {"Great Merchant": 3},
 		"color": [255,215,0]
 	},
 	{
-		"name":"Stone Mason",
-		"culture":2,
-		"production":1,
-		"greatPersonPoints": {"Great Artist":3},
+		"name": "Stone Mason",
+		"culture": 2,
+		"production": 1,
+		"greatPersonPoints": {"Great Artist": 3},
 		"color": [160,32,240]
 	},
 	{
-		"name":"Butcher",
-		"production":-1,
-		"food":3,
-		"greatPersonPoints": {"Great Merchant":3},
+		"name": "Butcher",
+		"production": -1,
+		"food": 3,
+		"greatPersonPoints": {"Great Merchant": 3},
 		"color": [160,32,240]
 	},
 	{
-		"name":"Cartographer",
-		"greatPersonPoints": {"Great Merchant":6},
+		"name": "Cartographer",
+		"greatPersonPoints": {"Great Merchant": 6},
 		"color": [160,32,240]
 	},
 	{
-		"name":"Cleric",
-		"faith":2,
-		"greatPersonPoints": {"Great Prophet":3},
+		"name": "Cleric",
+		"faith": 2,
+		"greatPersonPoints": {"Great Prophet": 3},
 		"color": [160,32,240]
 	},
 	{
-		"name":"Farmer",
-		"food":4,
-		"greatPersonPoints": {"Great Merchant":1},
+		"name": "Farmer",
+		"food": 4,
+		"greatPersonPoints": {"Great Merchant": 1},
 		"color": [160,32,240]
 	},
 	{
-		"name":"Fisherman",
-		"food":1,
-		"gold":1,
-		"greatPersonPoints": {"Great Merchant":3},
+		"name": "Fisherman",
+		"food": 1,
+		"gold": 1,
+		"greatPersonPoints": {"Great Merchant": 3},
 		"color": [160,32,240]
 	},
 	{
-		"name":"Fletcher",
-		"production":2,
-		"greatPersonPoints": {"Great General":3},
+		"name": "Fletcher",
+		"production": 2,
+		"greatPersonPoints": {"Great General": 3},
 		"color": [160,32,240]
 	},
 	{
-		"name":"Leatherworker",
-		"production":1,
-		"gold":1,
-		"culture":1,
-		"food":-1,
-		"greatPersonPoints": {"Great Engineer":3},
+		"name": "Leatherworker",
+		"production": 1,
+		"gold": 1,
+		"culture": 1,
+		"food": -1,
+		"greatPersonPoints": {"Great Engineer": 3},
 		"color": [160,32,240]
 	},
 	{
-		"name":"Armorer",
-		"production":2,
-		"greatPersonPoints": {"Great Engineer":3},
+		"name": "Armorer",
+		"production": 2,
+		"greatPersonPoints": {"Great Engineer": 3},
 		"color": [139,69,19]
 	},
 	{
-		"name":"Toolsmith",
-		"production":1,
-		"greatPersonPoints": {"Great Engineer":5},
+		"name": "Toolsmith",
+		"production": 1,
+		"greatPersonPoints": {"Great Engineer": 5},
 		"color": [139,69,19]
 	},
 	{
-		"name":"Weaponsmith",
-		"production":1,
-		"greatPersonPoints": {"Great General":5},
+		"name": "Weaponsmith",
+		"production": 1,
+		"greatPersonPoints": {"Great General": 5},
 		"color": [139,69,19]
 	},
 ]
