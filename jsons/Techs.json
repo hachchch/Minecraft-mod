@@ -2,7 +2,7 @@
         {
                 "columnNumber": 0,
                 "era": "Beginning era",
-                "techCost": 20,
+                "techCost": 10,
 		"buildingCost": 40,
 		"wonderCost": 100,
 		"techs": [
@@ -30,7 +30,7 @@
         {
                 "columnNumber": 2,
                 "era": "Beginning era",
-                "techCost": 20,
+                "techCost": 30,
 		"buildingCost": 40,
 		"wonderCost": 100,
 		"techs": [
@@ -44,7 +44,7 @@
         {
                 "columnNumber": 3,
                 "era": "Foundation era",
-                "techCost": 100,
+                "techCost": 40,
 		"buildingCost": 100,
 		"wonderCost": 100,
 		"techs": [
@@ -56,17 +56,19 @@
                         {
                                 "name": "Time to Farm!",
                                 "row": 9,
+				"prerequisites": ["Benchmarking"],
                         },
                         {
                                 "name": "Time to Strike!",
                                 "row": 7,
+				"prerequisites": ["Benchmarking"],
                         },
                 ]
         },
         {
                 "columnNumber": 4,
                 "era": "Foundation era",
-                "techCost": 100,
+                "techCost": 50,
 		"buildingCost": 100,
 		"wonderCost": 100,
 		"techs": [
@@ -105,7 +107,7 @@
         {
                 "columnNumber": 5,
                 "era": "Accumulation era",
-                "techCost": 100,
+                "techCost": 60,
 		"buildingCost": 100,
 		"wonderCost": 100,
 		"techs": [
