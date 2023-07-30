@@ -30,7 +30,7 @@
 		"name": "Academy",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"science": 8,
-		"uniques": ["Great Improvement", "[+2 Science] <during a Golden Age>", "[+2 Science] <after discovering [Atomic Theory]>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Great Improvement", "[+2 Science] <during a Golden Age>", "[+2 Science] <during We Love The King Day>", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
 		"name": "Landmark",
