@@ -185,3 +185,5 @@
 		"impassable": true,
 		"overrideStats": true,
 		"occursOn": ["Ocean", "Coast"]
+	}
+]
