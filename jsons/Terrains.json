@@ -75,8 +75,7 @@
 		"type": "Land",
 		"movementCost": 1,
 		"defenceBonus": -0.1,
-		"RGB": [125,122,113]
-		"uniques": ["Starts in regions of this type receive an extra [Forest]"],
+		"RGB": [125,122,113],
 	},
 	{
 		"name": "Desert",
