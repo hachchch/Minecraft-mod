@@ -23,7 +23,7 @@
                         {
                                 "name": "Getting Wood",
                                 "row": 6,
-                                "prerequisites": ["Taking Inventry"],
+                                "prerequisites": ["Taking Inventory"],
                         },
                 ]
         },
