@@ -6,7 +6,15 @@
 		"hurryCostModifier": 20,
 		"uniques": ["Can build [Land] improvements on tiles","Automation is a primary action"],
 		"cost": 50,
-        },
+	},
+	{
+		"name": "Swordman",
+		"requiredTech": "A",
+		"movement": 2,
+		"strength": 6,
+		"unitType": "Sword",
+		"cost": 100,
+	},
         {
                 "name": "Settler",
 		"unitType": "Civilian",
