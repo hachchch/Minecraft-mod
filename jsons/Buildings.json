@@ -4,5 +4,29 @@
                 "isNationalWonder": true,
                 "cost": 1,
                 "uniques": ["Indicates the capital city","Unsellable","Unbuildable","Cannot be purchased","Quantity of strategic resources produced by the empire increased by 100%"],
-        }
+        },
+        {
+                "name": "Campfire",
+                "food": 2,
+                "requiredTech": "Getting Wood",
+                "cost": 40,
+                "maintenance": 1,
+        },
+        {
+                "name": "Furnace House",
+                "food": 1,
+                "production": 2,
+                "requiredTech": "Hot Topic",
+                "cost": 40,
+                "maintenance": 2,
+        },
+        {
+                "name": "Smeltery",
+                "production": 3,
+                "requiredTech": "Acquire",
+                "cost": 40,
+                "percentStatBonus": {"production": 10},
+                "requiredBuilding": "Furnace House",
+                "maintenance": 3,
+        },
 ]
