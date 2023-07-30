@@ -15,6 +15,17 @@
 		"unitType": "Sword",
 		"cost": 100,
 	},
+	{
+		"name": "Archer",
+		"requiredTech": "Sniper Duel",
+		"cost": 100,
+		"unitType": "Arrow",
+		"movement": 2,
+		"range": 2,
+		"rangedStrength": 4,
+		"strength": 4,
+		"uniques": ["[80]% Strength <when attacking> <with [50]% chance>"],
+	},
         {
                 "name": "Settler",
 		"unitType": "Civilian",
