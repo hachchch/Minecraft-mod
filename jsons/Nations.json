@@ -3,7 +3,7 @@
                 "name": "Steve Village",
                 "leaderName": "Steve",
 		"adjective": ["Stevian"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
@@ -30,7 +30,7 @@
 		"name": "Alex Union",
                 "leaderName": "Alex",
 		"adjective": ["Alexian"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "",
 		"startIntroPart2": "",
