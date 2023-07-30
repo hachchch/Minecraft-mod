@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "Swordman",
-		"requiredTech": "A",
+		"requiredTech": "Acquire Hardware",
 		"movement": 2,
 		"strength": 6,
 		"unitType": "Sword",
